@@ -12,7 +12,9 @@ c) Demonstrate the use of active learning with label studio for your favorite im
 </br>
 Link: https://github.com/cmpe130weifeng/cmpe297_hw5/tree/main/label%20studio
 </br>
+</br>
+</br>
 Ref: </br>
-hint: https://avalanche.continualai.org/from-zero-to-hero-tutorial/01_introduction
-hint: https://docs.lightly.ai/tutorials/platform/tutorial_active_learning_detectron2.html
+hint: https://avalanche.continualai.org/from-zero-to-hero-tutorial/01_introduction </br>
+hint: https://docs.lightly.ai/tutorials/platform/tutorial_active_learning_detectron2.html </br>
 hint : https://github.com/lightly-ai/Lightly_LabelStudio_AL
