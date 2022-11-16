@@ -3,7 +3,7 @@
 a) Do an end2end well annotated and commented demo of continual learning using avalanche library in colab </br>
 Link: https://github.com/cmpe130weifeng/cmpe297_hw5/tree/main/avalanche
 </br>
-
+</br>
 b) Write a colab to demonstrate active learning with lightly.ai end2end </br>
 Link: https://github.com/cmpe130weifeng/cmpe297_hw5/tree/main/lightly.ai
 </br>
