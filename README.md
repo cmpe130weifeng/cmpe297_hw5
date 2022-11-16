@@ -7,7 +7,7 @@ Link: https://github.com/cmpe130weifeng/cmpe297_hw5/tree/main/avalanche
 b) Write a colab to demonstrate active learning with lightly.ai end2end </br>
 Link: https://github.com/cmpe130weifeng/cmpe297_hw5/tree/main/lightly.ai
 </br>
-
+</br>
 c) Demonstrate the use of active learning with label studio for your favorite image task </br>
 Link: https://github.com/cmpe130weifeng/cmpe297_hw5/tree/main/label%20studio
 </br>
