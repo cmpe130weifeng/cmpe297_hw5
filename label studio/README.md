@@ -9,4 +9,4 @@ I followed steps from https://github.com/lightly-ai/Lightly_LabelStudio_AL. Thes
 5. Train a model and do active learning
 </br>
 </br>
-All codes are done in python(py), no Google Colab invovled. 
+
