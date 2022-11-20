@@ -9,4 +9,5 @@ These steps are: </br>
   5. Train a model and do active learning
 </br>
 </br>
-
+Colab Link: https://colab.research.google.com/drive/1-tbCtPQSqlY0sdj5vYamJP8UR9kHb16m#scrollTo=QSb4due-EnhT </br>
+</br>
