@@ -11,3 +11,4 @@ These steps are: </br>
 </br>
 Colab Link: https://colab.research.google.com/drive/1-tbCtPQSqlY0sdj5vYamJP8UR9kHb16m#scrollTo=QSb4due-EnhT </br>
 </br>
+https://shell.cloud.google.com/?show=terminal </br>
