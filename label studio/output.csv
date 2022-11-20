@@ -1,0 +1,3 @@
+long_hair,forehead_width_cm,forehead_height_cm,nose_wide,nose_long,lips_thin,distance_nose_to_lip_long,gender,id,choice,annotator,annotation_id,created_at,updated_at,lead_time
+0,14.0,5.4,0,0,1,0,,2,Female,1,30,2022-11-20T11:18:35.166758Z,2022-11-20T11:18:35.166758Z,2.387
+1,11.8,6.1,1,0,1,1,,1,Male,1,29,2022-11-20T11:18:32.067244Z,2022-11-20T11:18:32.067244Z,4.582
